@@ -1,0 +1,15 @@
+cd                改变目录
+pwd             查看目录
+ls                 打印目录
+mkdir          创建目录 (make directory）
+rmdir           删除目录（remove directory）
+rm               删除目录   （m     r）
+MV              重命名               (move)
+cp -R           拷贝 （copy）
+touch          创建大小为0的文件、改变时间
+cat-n           输出所有行号
+grep            查找文本内容
+egrep          正则表达式
+wc                统计                              -l   行数
+                                                         -c   字符
+
